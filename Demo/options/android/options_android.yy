@@ -1,6 +1,10 @@
 {
   "option_android_sync_amazon": false,
+<<<<<<< HEAD
   "option_android_display_name": "Created with GameMaker",
+=======
+  "option_android_display_name": "Created with GameMaker Studio 2",
+>>>>>>> main
   "option_android_version": "1.0.0.0",
   "option_android_tools_from_version": false,
   "option_android_build_tools": "",
