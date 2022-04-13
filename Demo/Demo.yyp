@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_cjw487","path":"objects/obj_cjw487/obj_cjw487.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -7,7 +8,7 @@
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
