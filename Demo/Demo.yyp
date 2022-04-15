@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_lro8158_2","path":"objects/obj_lro8158_2/obj_lro8158_2.yy",},"order":1,},
     {"id":{"name":"obj_cjw487","path":"objects/obj_cjw487/obj_cjw487.yy",},"order":0,},
+    {"id":{"name":"frans_object","path":"objects/frans_object/frans_object.yy",},"order":3,},
     {"id":{"name":"obj_df1854","path":"objects/obj_df1854/obj_df1854.yy",},"order":1,},
     {"id":{"name":"obj_newObject","path":"objects/obj_newObject/obj_newObject.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -17,6 +18,7 @@
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
