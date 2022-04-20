@@ -6,3 +6,10 @@
 // some changes
 
 // and more changes
+
+x = 10;
+
+if(x < 0)
+{
+	show_debug_message("Wow, neat");	
+}
