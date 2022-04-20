@@ -9,7 +9,7 @@
 
 x = 10;
 
-if(x < -100)
+if(x < 0)
 {
 	show_debug_message("Wow, neat");	
 }
