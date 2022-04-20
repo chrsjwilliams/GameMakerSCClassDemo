@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_cjw487",
+    "path": "sprites/spr_cjw487/spr_cjw487.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
