@@ -2,8 +2,8 @@
   "resources": [
     {"id":{"name":"obj_lro8158_2","path":"objects/obj_lro8158_2/obj_lro8158_2.yy",},"order":1,},
     {"id":{"name":"obj_cjw487","path":"objects/obj_cjw487/obj_cjw487.yy",},"order":0,},
+    {"id":{"name":"obj_abc9295","path":"objects/obj_abc9295/obj_abc9295.yy",},"order":4,},
     {"id":{"name":"frans_object","path":"objects/frans_object/frans_object.yy",},"order":3,},
-    {"id":{"name":"obj_zw1887","path":"objects/obj_zw1887/obj_zw1887.yy",},"order":4,},
     {"id":{"name":"obj_df1854","path":"objects/obj_df1854/obj_df1854.yy",},"order":1,},
     {"id":{"name":"obj_newObject","path":"objects/obj_newObject/obj_newObject.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
